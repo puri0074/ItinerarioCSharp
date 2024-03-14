@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\bin\Debug\ItinerarioPuri.exe.config
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\bin\Debug\ItinerarioPuri.exe
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\bin\Debug\ItinerarioPuri.pdb
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.Form1.resources
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.Properties.Resources.resources
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.exe
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.pdb
+C:\Users\Alumno\source\repos\ItinerarioPuri\ItinerarioPuri\obj\Debug\ItinerarioPuri.FormItinerario.resources
